@@ -30,6 +30,11 @@
     background-color: #525252;
 }
 
+.bg-color-work-history {
+    background-color: #9b59b6;
+}
+
+
 .row-table {
     display: table;
 }
@@ -290,4 +295,10 @@ footer {
 
 .progress-section {
     margin: 40px 20px;
+}
+
+/* ----------------------------------------Work History */
+.history-heading {
+    color: #fafafa;
+    margin: 30px;
 }
