@@ -70,6 +70,14 @@ h4 {
     display: inline-block;
 }
 
+.container-fluid {
+    width: 100%;
+    padding-right: 0;
+    padding-left: 0;
+    margin-right: auto;
+    margin-left: auto;
+}
+
 /*--------------------------------------------Heading*/
 
 header {
@@ -224,4 +232,8 @@ footer {
 
 .three-reasons-heading {
     margin-bottom: 15px;
+}
+
+.row {
+    --bs-gutter-x: 0;
 }
